@@ -56,22 +56,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=manojramr&count_private=true&show_icons=true&theme=dark" />
 </a>
-</center>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojramr&theme=dark&card_width=500
-" />
+<br>
+<br><br><br><br>
 <hr>
-
-</a>
-
-
 <p>Thank You for taking the time to view my GitHub Profile 😃</p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=manojramr.manojramr)
