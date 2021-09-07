@@ -7,23 +7,21 @@
 <p align='center'>
 
 </p>
-<div size='20px'> Hi! My name is Manoj Randeni, a full-stack developer from Sri Lanka. **I’m openly looking for full-time job opportunities (onsite/ remote) as a junior full-stack developer.**
+<div size='20px'> Hi! My name is Manoj Randeni, a full-stack developer from Sri Lanka. 
+
+**I’m openly looking for full-time job opportunities (onsite/ remote) as a junior full-stack developer**
 </div>
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+- 🔭 I’m currently working on my portfolio website development project, and a few personal projects.
 
+- 🌱 My current focus is to master Java, Angular and MySQL language & techs by developing some of my personal projects.
 
-- 🔭 I’m currently working on my portfolio website development project
+- 💬 Talk to me about web development, **freelancing opportunities**, and anything related to blockchain developments. 
 
-- 🌱 My current focus is to master Java, Angular and MySQL language & techs by developing 
+<h2>Technologies and Tools</h2>  
 
-- 👯 
-
-- 💬 Talk to me about web development, freelancing opportunities, and anything related to blockchain developments. 
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/manojramr?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/manojramr?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/manojramr?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
@@ -44,7 +42,16 @@
 <a href= https://github.com/manojramr?tab=repositories&q=&type=&language=solidworks&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/solidworks.svg'> </a>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-pethumjeewantha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pethum-jeewantha-7b70aa1b1/)](https://www.linkedin.com/in/pethum-jeewantha-7b70aa1b1/)
+&nbsp;
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/14575364/pethum-jeewantha)](https://stackoverflow.com/users/14575364/pethum-jeewantha)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/JeewanthaPethum)
+&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-pethumjeewantha4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pethumjeewantha4@gmail.com)](mailto:pethumjeewantha4@gmail.com)
+
 <a href = 'https://www.linkedin.com/in/manojrandeni'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/manoj_r_r'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/manojramr'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
