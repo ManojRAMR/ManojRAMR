@@ -44,13 +44,6 @@
 
 <h2> Connect with me</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-pethumjeewantha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pethum-jeewantha-7b70aa1b1/)](https://www.linkedin.com/in/pethum-jeewantha-7b70aa1b1/)
-&nbsp;
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/14575364/pethum-jeewantha)](https://stackoverflow.com/users/14575364/pethum-jeewantha)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/JeewanthaPethum)
-&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-pethumjeewantha4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pethumjeewantha4@gmail.com)](mailto:pethumjeewantha4@gmail.com)
 
 <a href = 'https://www.linkedin.com/in/manojrandeni'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/manoj_r_r'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
