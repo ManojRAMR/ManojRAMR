@@ -56,9 +56,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=manojramr&count_private=true&show_icons=true&theme=dark" />
 </a>
-
+</center>
 <br>
-<br><br><br><br>
+<br><br><br><br><br><br>
 <hr>
 <p>Thank You for taking the time to view my GitHub Profile 😃</p>
 
