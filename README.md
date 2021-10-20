@@ -18,7 +18,7 @@
 
 - 🌱 My current focus is to master Java, Angular and MySQL language & techs by developing some of my personal projects.
 
-- 💬 Talk to me about web development, **freelancing opportunities**, and anything related to blockchain developments. 
+- 💬 Talk to me about web development, **freelancing opportunities**, and anything related to web app developments. 
 
 
 <h2> Connect with me</h2>
