@@ -7,14 +7,10 @@
 <p align='center'>
 
 </p>
-<div size='20px'> Hi! My name is Manoj Randeni, a full-stack developer from Sri Lanka. 
+<div size='20px'> Hi! My name is Manoj Randeni, an ambitious and self-motivated individual with a strong technical background, who is able to work with minimum supervision. Enjoy solving problems and working in team environments.
 
-**I’m openly looking for full-time job opportunities (onsite/ remote) as a junior full-stack developer**
+Working in a Swedish-American startup as a front-end web developer on contract basis. Focus on building a career as a full stack developer while being up-to-date with new technologies. 
 </div>
-
-<h2> About Me </h2>
-
-- 🔭 I’m currently working on my portfolio website development project, and a few personal projects.
 
 - 🌱 My current focus is to master Java, Angular and MySQL language & techs by developing some of my personal projects.
 
